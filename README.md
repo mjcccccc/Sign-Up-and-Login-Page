@@ -4,6 +4,7 @@ This is an Activity in our Web Development course
 
 Instruction: Create a Registration and Login Form Using Javascript 
              Validating a Registration and Login Form Using Javascript
+						 
                 1. Registration validation rules:
                       a. Username: between 3 and 15 characters, must be unique
                       b. email: a valid email address, must be unique
